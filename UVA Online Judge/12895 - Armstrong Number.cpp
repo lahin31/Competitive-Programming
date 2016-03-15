@@ -31,5 +31,6 @@ int main()
             cout<<"Not Armstrong"<<endl;
         }
     }
+    return 0;
 }
 

@@ -23,5 +23,6 @@ int main()
             cout<<n<<" things taken "<<m<<" at a time is "<<fixed<< setprecision(0)<<p<<" exactly."<<endl;
         }
     }
+    return 0;
 }
 

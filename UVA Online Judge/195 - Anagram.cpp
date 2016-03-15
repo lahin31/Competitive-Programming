@@ -30,5 +30,6 @@ int main()
         }
         while(next_permutation(str.begin(),str.end(),str_cmp));
     }
+    return 0;
 }
 

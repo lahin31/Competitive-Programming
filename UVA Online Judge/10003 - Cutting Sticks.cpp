@@ -26,7 +26,6 @@ int fun(int a, int b)
     }
     return x;
 }
-
 int main()
 {
 

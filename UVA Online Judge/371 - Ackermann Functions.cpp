@@ -46,4 +46,5 @@ int main()
             cout<<"Between "<<a<<" and "<<b<<", "<<p<<" generates the longest sequence of "<<r<<" values."<<endl;
         }
     }
+    return 0;
 }

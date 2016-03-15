@@ -27,6 +27,7 @@ int main()
         cout<<s<<endl;
         s=0;
     }
+    return 0;
 }
 
 

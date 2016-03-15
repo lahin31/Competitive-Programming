@@ -22,4 +22,5 @@ int main()
         d=bigmod(a,b,c);
         cout<<d<<endl;
     }
+    return 0;
 }

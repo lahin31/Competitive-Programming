@@ -49,4 +49,5 @@ int main()
         cout<<"END OF OUTPUT"<<endl;
         m=0;
     }
+    return 0;
 }

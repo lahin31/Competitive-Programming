@@ -9,19 +9,24 @@ int main()
     int j,k,i,p,q,n;
     string str;
     cin>>n;
-    while(n--){
+    while(n--)
+    {
         cin>>str;
         p=0,q=0;
-        for(i=0;i<str.length();i++){
-                if(str[i]=='O'){
+        for(i=0; i<str.length(); i++)
+        {
+            if(str[i]=='O')
+            {
                 p=(p+1);
                 q=p+q;
-                }
-                else if(str[i]=='X'){
-                p=0;
-                }
             }
+            else if(str[i]=='X')
+            {
+                p=0;
+            }
+        }
         cout<<q<<endl;
     }
+    return 0;
 }
 

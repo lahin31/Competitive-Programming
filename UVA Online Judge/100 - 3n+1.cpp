@@ -32,5 +32,5 @@ int main()
                 }
                 printf("%lld %lld %lld\n",n,m,q+1);
         }
-
+return 0;
     }
